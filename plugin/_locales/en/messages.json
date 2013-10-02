@@ -5,6 +5,27 @@
 	
 	"extDescription": {
 		"message": "Facebook pages can be claimed in a number of ways and this extension lets you find out how the page has been claimed and provide where relent access to links to apps and profiles the site owner has associated with their site."
+	},
+	
+	"situationAppText":{
+		"message": "Linked to application"
+	},
+	"situationAppTextLong":{
+		"message": "This webpage meta tag links it to a Facebook Application. This is the optimal way to link and control who has access to the Facebook insights."
+	},
+		
+	"situationPageText":{
+		"message": "Linked to page"
+	},
+	"situationPageTextLong":{
+		"message": "This webpage meta tag links it to a Facebook page. This method is nolonger accepted for new sites."
+	},
+	
+	"situationAdminText":{
+		"message": "Linked to Facebook profile"
+	},
+	"situationAdminTextLong":{
+		"message": "This webpage meta tag links it to a Facebook profile. This could identify the person with some associated with this site."
 	}
 		
 }
